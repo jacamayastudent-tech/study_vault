@@ -165,6 +165,10 @@ https://github.com/armlynobinguar/Stellar-Bootcamp-2026
 Example full-stack Soroban app:
 https://github.com/armlynobinguar/community-treasury
 
+Contract ID:
+CDTLNLY5O4YI6NLJTNMA7MGJENCZRMBDP2WTLCR4MEUZDJ3NMGQW5R3E
+
+
 ---
 
 ## License
