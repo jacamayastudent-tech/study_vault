@@ -1,0 +1,16 @@
+[workspace]
+members = ["contracts/study_vault"]
+resolver = "2"
+
+[workspace.dependencies]
+soroban-sdk = { version = "21.0.0" }
+
+[profile.release]
+overflow-checks = true
+opt-level = "z"
+debug = false
+strip = "symbols"
+debug-assertions = false
+panic = "abort"
+codegen-units = 1
+lto = true
