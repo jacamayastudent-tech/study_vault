@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/3c9f9c10-b755-42ea-a504-5727256fccfc" />
 # StudyVault 📚
 
 > A Stellar-powered semester savings vault that helps SEA university students lock USDC tuition funds, earn savings streaks, and avoid impulsive spending.
@@ -175,3 +174,4 @@ CDTLNLY5O4YI6NLJTNMA7MGJENCZRMBDP2WTLCR4MEUZDJ3NMGQW5R3E
 ## License
 
 MIT © 2026 StudyVault Contributors
+<img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/d2f9dc3a-55a5-4253-b1d5-a694d2507d90" />
